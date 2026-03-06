@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi, I'm Ardiano:
 🔭 I’m currently working on  <br>Web and mobile application development projects.<br><br>👯 I’m looking to collaborate on  <br>Innovative projects in software development and technology.<br><br>🤝 I’m looking for help with  <br>Building scalable systems and improving my machine learning skills.<br><br> I’m currently learning  <br>Machine Learning, Backend Development, and AI Workflows.<br><br>💬 Ask me about  <br>Web development, databases, and beginner-level machine learning.<br><br>⚡ Fun fact  <br>I enjoy building tech projects and exploring new technologies.
 
 
